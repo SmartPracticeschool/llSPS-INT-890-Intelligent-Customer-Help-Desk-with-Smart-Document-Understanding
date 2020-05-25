@@ -5,4 +5,4 @@ This project was created by Kushagra Chaturvedy(18ucs229@lnmiit.ac.in) under the
 
 This project is an intelligent chatbot made using IBM Watson Assistant and utilizes smart document understanding using IBM Watson Discovery.The frontend UI of the chatbot interface was made using NodeRED and Watson Assistant and Watson Discovery were linked using Cloud functions.
 
-Check the video I made about the project here:
+Here is a link to a video I made about the project: https://youtu.be/bMRrydUQinw
